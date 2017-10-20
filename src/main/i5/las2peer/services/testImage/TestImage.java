@@ -89,10 +89,6 @@ public class TestImage extends RESTService {
 
     private final TestImage service = (TestImage) Context.getCurrent().getService();
 
-    
-
-    $MetadataDoc_Method$
-
   }
 
   // //////////////////////////////////////////////////////////////////////////////////////
